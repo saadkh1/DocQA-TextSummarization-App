@@ -59,12 +59,12 @@ This Streamlit application empowers users to effortlessly perform Document Quest
 ### Document QA Example:
 
 Here's an example of the Document Question-Answering task in action:
-![Document QA Example](https://github.com/saadkh1/DocQA-TextSummarization-App/images/qa.png)
+![Document QA Example](https://github.com/saadkh1/DocQA-TextSummarization-App/blob/main/images/qa.png)
 
 ### Text Summarization Example:
 
 And here's an example of the Text Summarization task in action:
-![Text Summarization Example](https://github.com/saadkh1/DocQA-TextSummarization-App/images/summarization.png)
+![Text Summarization Example](https://github.com/saadkh1/DocQA-TextSummarization-App/blob/main/images/summarization.png)
 
 ## Installation and Running Locally
 
