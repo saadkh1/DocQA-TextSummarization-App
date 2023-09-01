@@ -1,0 +1,13 @@
+langchain
+streamlit
+sentence_transformers
+faiss-cpu
+streamlit_chat
+pypdf
+unstructured
+llama-cpp-python==0.1.78
+git+https://github.com/openai/whisper.git
+pytube
+pytesseract
+pillow
+setuptools-rust
